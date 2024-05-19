@@ -1,5 +1,6 @@
 import './App.css'
 import UseEffect from './UseEffect'
+import UseRef from './UseRef'
 import UseSatate from './UseSatate'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
     <UseSatate/>
     <UseEffect/>
+    <UseRef/>
     </>
   )
 }
